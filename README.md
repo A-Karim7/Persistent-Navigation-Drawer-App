@@ -1,19 +1,10 @@
-# navigation_drawer
+# Application avec Drawer Persistent pour la Navigation
 
-A new Flutter project.
+Cette application Flutter utilise un drawer persistent pour faciliter la navigation entre les différentes sections de l'application.
 
-## Getting Started
+## Prérequis
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Flutter](https://flutter.dev/docs/get-started/install) doit être installé sur votre machine.
 
 
 https://github.com/user-attachments/assets/75b5456c-d5af-439c-8a5f-7eb4c12ef988
